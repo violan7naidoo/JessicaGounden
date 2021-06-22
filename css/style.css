@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 #fh5co-header #navbar li a {
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family: "Cormorant Garamond", Arial, sans-serif;
   color: rgba(255, 255, 255, 0.5);
   position: relative;
   font-size: 16px;
@@ -182,12 +182,13 @@ h1, h2, h3, h4, h5, h6 {
 #fh5co-header .navbar-brand {
   float: left;
   display: block;
-  font-size: 24px;
+  font-size: 22px;
   font-weight: 700;
   padding-left: 0;
+  margin-bottom: 10px;
   color: #fff;
   text-transform: uppercase;
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family: "Cormorant Garamond", Arial, sans-serif;
 }
 @media screen and (max-width: 992px) {
   #fh5co-header .navbar-brand {
